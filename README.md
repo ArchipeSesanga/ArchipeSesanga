@@ -6,7 +6,7 @@ IT at the Central University of Technology (CUT), currently in the Bitcube Softw
 ### What I'm working on
 - 🎨 **ArtMeets** – Flutter developer on a social discovery platform for artists, live on Google Play and the App Store
 - 📅 **Meetzy** – a social scheduling app I build and ship solo
-- 💸 **Happapin** – mobile app setup and architecture for a payments platform (Flutter + .NET + PostGIS)
+- 💸 **FinTech** - .NET, React andn Flutter 
 - 🧮 **TallyVel** – stokvel contribution tracker API in ASP.NET Core and PostgreSQL
 
 ### Tech I use
