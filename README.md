@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Archipe 👋
 
-<!--
-**ArchipeSesanga/ArchipeSesanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from South Africa 🇿🇦 building cross-platform mobile apps and the backends behind them.
+IT at the Central University of Technology (CUT), currently in the Bitcube Software Development Trainee Program.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🎨 **ArtMeets** – Flutter developer on a social discovery platform for artists, live on Google Play and the App Store
+- 📅 **Meetzy** – a social scheduling app I build and ship solo
+- 💸 **Happapin** – mobile app setup and architecture for a payments platform (Flutter + .NET + PostGIS)
+- 🧮 **TallyVel** – stokvel contribution tracker API in ASP.NET Core and PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+**Mobile:** Dart, Flutter, GetX, Provider, MVVM
+**Backend:** C#, ASP.NET Core, EF Core, Node.js (Cloud Functions)
+**Data:** PostgreSQL, PostGIS, Firebase/Firestore, SQLite, Oracle SQL
+**Tooling:** Git, Google Maps & Places APIs, Play Console, App Store Connect
+
+### How I work
+Find the root cause before writing the fix, keep changes scoped, and ship to production.
