@@ -10,7 +10,7 @@ IT at the Central University of Technology (CUT), currently in the Bitcube Softw
 - 🧮 **TallyVel** – stokvel contribution tracker API in ASP.NET Core and PostgreSQL
 
 ### Tech I use
-**Mobile:** Dart, Flutter, GetX, Provider, MVVM
+**Mobile:** Dart, Flutter, GetX, Provider, RiverPod, MVVM
 **Backend:** C#, ASP.NET Core, EF Core, Node.js (Cloud Functions)
 **Data:** PostgreSQL, PostGIS, Firebase/Firestore, SQLite, Oracle SQL
 **Tooling:** Git, Google Maps & Places APIs, Play Console, App Store Connect
